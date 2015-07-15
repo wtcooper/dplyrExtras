@@ -1,0 +1,8 @@
+Package: dplyrExtras
+Title: Additional Features for dplyr
+Version: 0.0.0.9000
+Authors@R: person("Wade", "Cooper", , "wadetcooper@gmail.com", role = c("aut", "cre"))
+Description: Some additional features for dplyr.
+Depends: R (>= 3.1.3)
+License: GPL-2
+LazyData: true

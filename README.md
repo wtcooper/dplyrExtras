@@ -1,4 +1,4 @@
-# dplyrExtras
+# dplyrStrWrap
 Simple wrappers from Sebastian Kranz (gist.github.com/skranz/9681509) in package form to ease install across machines.  Allows one to pass column names to most dplyr methods, where method name is of the form s_[method name]().  
 
 E.g., instead of the following existing approach:

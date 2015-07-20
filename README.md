@@ -12,3 +12,8 @@ One would use:
   > df %>% s_group_by(colNameAsString)
 
 Other approaches exist when working with strings for column names in dplyr, but this may be a more natural feel for many users.
+
+
+## Installation
+library(devtools)
+devtools::install_github("wtcooper/dplyrStrWrap")

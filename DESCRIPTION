@@ -1,7 +1,7 @@
 Package: dplyrStrWrap
 Title: Names as Strings for dplyr Methods
 Version: 0.0.0.9000
-Authors@R: person("Wade", "Cooper", , "wadetcooper@gmail.com", role = c("aut"))
+Authors@R: person("Wade", "Cooper", , "wadetcooper@gmail.com", role = c("aut", "cre"))
 Description: Simple wrappers for passing column names as strings to most dplyr methods (prefix of s_), as alternative to other verbose approaches.
 Depends: R (>= 3.1.3)
 License: GPL-2

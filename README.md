@@ -15,5 +15,6 @@ Other approaches exist when working with strings for column names in dplyr, but 
 
 
 ## Installation
-library(devtools)
-devtools::install_github("wtcooper/dplyrStrWrap")
+  > library(devtools)
+  
+  > devtools::install_github("wtcooper/dplyrStrWrap")
